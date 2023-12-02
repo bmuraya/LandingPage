@@ -6,3 +6,5 @@
 
  It allows you to create household groups, assign tasks, post bill documents, track grocery needs, and communicate with your household members through a convenient group chat. "Homeony" is your all-in-one solution for a more organized and peaceful living experience
 
+ ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/LoginFeature.jpg)
+

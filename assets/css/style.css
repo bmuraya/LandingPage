@@ -540,6 +540,7 @@ About STYLE
   border-radius: 5px;
   transition: all .3s ease;
   margin: 0px 20px;
+  background: darkseagreen;
 }
 
 .about-box:hover {
