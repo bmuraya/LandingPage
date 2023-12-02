@@ -448,7 +448,7 @@ Header MIddle
 ================*/
 .banner {
   padding: 40px 0px 245px;
-  background: #f9f8f2;
+  background: #ffc703;
   position: relative;
 }
 
@@ -458,14 +458,15 @@ Header MIddle
 
 .banner .banner-content .subheading {
   text-transform: uppercase;
-  color: #000000;
-  font-weight: 700;
+  color: #023831c9;
+  font-weight: 500;
+  font-size: 48px;
 }
 
 .banner .banner-content h1 {
-  font-size: 72px;
+  font-size: 45px;
   margin: 15px 0px 40px;
-  line-height: 72px;
+  line-height: 55px;
 }
 
 .banner .banner-content h1 span {
