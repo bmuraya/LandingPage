@@ -6,5 +6,5 @@
 
  It allows you to create household groups, assign tasks, post bill documents, track grocery needs, and communicate with your household members through a convenient group chat. "Homeony" is your all-in-one solution for a more organized and peaceful living experience
 
- ![Screenshot of Homeony is a web application that simplifies household management .](images/LandingPage.jpg)
+ ![Screenshot of Homeony is a web application that simplifies household management .](assets/images/LandingPage.jpg)
 
